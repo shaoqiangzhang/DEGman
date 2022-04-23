@@ -1,7 +1,6 @@
 Package: DEGman
 Type: Package
-Title: Find differential expressed genes of scRNA-seq based on 
-Bhattacharyya distance and Best-fit of three distributions(Poisson, NB, ZINB)
+Title: Find differential expressed genes of scRNA-seq based on Bhattacharyya distance and Best-fit of three distributions(Poisson, NB, ZINB)
 Version: 0.1.1
 Author: Shaoqiang Zhang
 Maintainer: Shaoqiang Zhang <sqzhang@163.com>
